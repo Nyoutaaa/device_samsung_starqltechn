@@ -15,9 +15,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_starqltechn.mk
+    $(LOCAL_DIR)/dot_starqltechn.mk
 
 COMMON_LUNCH_CHOICES := \
-	aosp_starqltechn-user \
-	aosp_starqltechn-userdebug \
-	aosp_starqltechn-eng
+	dot_starqltechn-user \
+	dot_starqltechn-userdebug \
+	dot_starqltechn-eng
