@@ -26,4 +26,4 @@ The Samsung Galaxy S9 (codenamed "starqltechn") is a top of the line device from
 
 ![Samsung Galaxy S9](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s9-1.jpg)
 
-Copyright (C) 2021 AOSPK.
+Copyright (C) 2023 LineageOS.
