@@ -66,4 +66,5 @@ void vendor_load_properties()
     property_override("ro.product.vendor.model", "SM-G9600");
     property_override("ro.product.product.model", "SM-G9600");
     property_override("ro.product.odm.model", "SM-G9600");
+    property_override("ro.product.first_api_level", "29");
 }
